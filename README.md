@@ -1,8 +1,8 @@
-# Hi there, I'm Logithkumar K R 👋
+# LOGITHKUMAR K R
 
 **Software Engineer | AI Integrations, Backend & Full-Stack Systems**
 
-I am a passionate Software Development Engineer with hands-on experience building and deploying full-stack applications integrated with AI and machine learning capabilities. I specialize in designing scalable backend systems, RESTful APIs, and real-time data pipelines.
+I am a Software Development Engineer specializing in backend architecture, AI integrations, and full-stack system development. With a strong foundation in designing scalable RESTful APIs and real-time data pipelines, I bring hands-on experience deploying production-grade systems—including institutional RAG chatbots and CP-SAT constraint solvers. I am deeply passionate about translating complex technical requirements into robust, high-performance architectures.
 
 ---
 
@@ -18,8 +18,8 @@ I am a passionate Software Development Engineer with hands-on experience buildin
 
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://logithkumar-port.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logithkumar-k-r-513226329/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LOGITHKUMAR%20K%20R)
 [![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8930hC/)
 
 ---
@@ -50,6 +50,6 @@ I am a passionate Software Development Engineer with hands-on experience buildin
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=logithKR&show_icons=true&theme=radium&hide_border=true" alt="Logithkumar's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=logithKR&theme=radium&hide_border=true" alt="Logithkumar's GitHub Streak" />
 </div>
