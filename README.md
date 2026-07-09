@@ -50,6 +50,6 @@ I am a passionate Software Development Engineer with hands-on experience buildin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logithKR&show_icons=true&theme=radium&hide_border=true" alt="Logithkumar's GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=logithKR&theme=radium&hide_border=true" alt="Logithkumar's GitHub Streak" />
 </div>
