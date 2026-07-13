@@ -18,8 +18,8 @@ I am a Software Development Engineer specializing in backend architecture, AI in
 
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-domain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LOGITHKUMAR%20K%20R)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-domain.com](https://logithkumar-port.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/LOGITHKUMAR%20K%20R)](http://linkedin.com/in/logithkumar-k-r-513226329/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8930hC/)
 
 ---
