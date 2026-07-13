@@ -1,55 +1,267 @@
-# LOGITHKUMAR K R
+<div align="center">
 
-**Software Engineer | AI Integrations, Backend & Full-Stack Systems**
+# Hi, I'm LOGITHKUMAR K R 👋
 
-I am a Software Development Engineer specializing in backend architecture, AI integrations, and full-stack system development. With a strong foundation in designing scalable RESTful APIs and real-time data pipelines, I bring hands-on experience deploying production-grade systems—including institutional RAG chatbots and CP-SAT constraint solvers. I am deeply passionate about translating complex technical requirements into robust, high-performance architectures.
+### Software Development Engineer | Backend Engineer | AI Systems | Full-Stack Developer
 
----
+Building scalable backend systems, AI-powered applications, and modern full-stack software with a passion for solving real-world engineering problems.
 
-### 🚀 About Me
-- 🔭 I’m currently working on **AI-driven constraint optimization systems and RAG chatbots.**
-- 🎓 I'm a B.E Computer Science and Design student at **Bannari Amman Institute of Technology**.
-- 🌱 I’m currently exploring deeper into **Large Language Models (LLMs) and Vector Databases**.
-- 🏆 Proud recipient of the **Reliance Foundation Undergraduate Scholarship 2023**.
-- 💬 Ask me about **Python, FastAPI, React, or Google OR-Tools**.
-- 📫 Reach me at: **logithkumar188@gmail.com**
+<p align="center">
+  <a href="https://logithkumar-port.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/logithkumar-k-r-513226329/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/logithKR" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:logithkumar188@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/user8930hC/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" alt="LeetCode"/>
+  </a>
+</p>
 
----
-
-### 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-domain.com](https://logithkumar-port.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/LOGITHKUMAR%20K%20R)](http://linkedin.com/in/logithkumar-k-r-513226329/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user8930hC/)
-
----
-
-### 💻 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Backend & APIs:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-**AI & Machine Learning:**  
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 💫 About Me
+
+🎓 Final Year **Computer Science and Design** student at **Bannari Amman Institute of Technology**
+
+💻 Passionate about **Software Engineering, Backend Development, AI Systems, and Full-Stack Applications**
+
+🤖 Currently building **AI-powered Constraint Optimization Systems** and **Retrieval-Augmented Generation (RAG) Applications**
+
+🌱 Exploring **Large Language Models (LLMs), Agentic AI, Vector Databases, and Distributed Systems**
+
+🏆 **Reliance Foundation Undergraduate Scholar 2023**
+
+💬 Ask me about **Python, FastAPI, React, REST APIs, LangChain, Google OR-Tools, and AI Integrations**
+
+📫 **Email:** **logithkumar188@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://logithkumar-port.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/logithkumar-k-r-513226329/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/logithKR">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:logithkumar188@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/user8930hC/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql"/>
+
+</p>
+
+---
+
+### Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
+
+</p>
+
+---
+
+### Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask"/>
+
+</p>
+
+---
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+</p>
+
+**Technologies**
+
+- Google Gemini
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Google OR-Tools
+- Prompt Engineering
+
+---
+
+### Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,vercel,linux"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 AI Academic Analytics Dashboard
+
+- AI-powered academic analytics platform
+- Student performance prediction
+- Interactive dashboards
+- Modern React UI
+- FastAPI backend
+
+---
+
+## 🤖 Institutional RAG Chatbot
+
+- Context-aware chatbot
+- LangChain + Google Gemini
+- Document Question Answering
+- Semantic Search
+- Vector Database Integration
+
+---
+
+## 📅 AI Constraint-Based Timetable Generator
+
+- Google OR-Tools CP-SAT Solver
+- Automatic timetable generation
+- Faculty workload optimization
+- Conflict-free scheduling
+- Institutional deployment
+
+---
+
+## 🌐 Personal Portfolio Website
+
+- React
+- Tailwind CSS
+- Responsive Design
+- Modern UI
+- Deployed on Vercel
+
+🔗 **https://logithkumar-port.vercel.app**
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Reliance Foundation Undergraduate Scholar (2023)
+- 🤖 Built AI-powered Applications
+- 🚀 Developed Institutional RAG Chatbots
+- ⚡ Designed Constraint Optimization Systems
+- 💻 Passionate Software Engineer
+
+---
+
+# 📊 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=logithKR&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=logithKR&theme=flat&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Backend Engineering
+- REST API Design
+- AI Systems
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Constraint Optimization
+- Full-Stack Development
+- Scalable Software Architecture
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+**logithkumar188@gmail.com**
+
+🌐 **Portfolio**
+
+https://logithkumar-port.vercel.app
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/logithkumar-k-r-513226329/
+
+💻 **GitHub**
+
+https://github.com/logithKR
+
+🧩 **LeetCode**
+
+https://leetcode.com/u/user8930hC/
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logithKR&show_icons=true&theme=radium&hide_border=true" alt="Logithkumar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logithKR&theme=radium&hide_border=true" alt="Logithkumar's GitHub Streak" />
+
+### Thanks for visiting my profile!
+
+*"Building intelligent software that solves real-world problems through AI, backend engineering, and scalable system design."*
+
 </div>
